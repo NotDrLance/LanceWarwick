@@ -21,42 +21,4 @@ My research focuses on the intersection of sport and sustainability, with a part
 
 Outside of the ivory tower, I enjoy cycling, skiing, and spending time with my wife and our two cats, Reggie & Rosie. I'm a fan of the Toronto Maple Leafs, Toronto Sceptres, Toronto Blue Jays, Arsenal FC, and have recently got into cricket. [Current Fan Misery Index](https://www.espn.com/espn/feature/story/_/id/45344992/sports-misery-index): **70**
 ***
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
 
-library(httr2)
-library(purrr)
-library(htmltools)
-
-response <- request("https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed") |>
-  req_url_query(actor = "sportecostudent.bsky.social", limit = 20) |>
-  req_perform() |>
-  resp_body_json()
-
-posts <- response$feed
-
-cards <- map(posts, function(item) {
-  text <- item$post$record$text
-  date <- substr(item$post$record$createdAt, 1, 10)
-  url  <- paste0("https://bsky.app/profile/sportecostudent.bsky.social/post/",
-                 basename(item$post$uri))
-  likes  <- item$post$likeCount %||% 0
-  reposts <- item$post$repostCount %||% 0
-
-  div(class = "bsky-card",
-    p(class = "bsky-text", text),
-    div(class = "bsky-footer",
-      span(class = "bsky-date", date),
-      span(class = "bsky-stats",
-        span(paste0("♥ ", likes)),
-        span(paste0("♻ ", reposts))
-      ),
-      a(class = "bsky-link", "View on Bluesky", href = url, target = "_blank")
-    )
-  )
-})
-
-tagList(cards)
-```

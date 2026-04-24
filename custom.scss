@@ -51,7 +51,7 @@ $headings-color:              $blue !default;
 }
 
 .bsky-card {
-  border: 1px solid #e0e0e0;
+  border: 1px solid $primary;
   border-radius: 8px;
   padding: 1rem 1.25rem;
   margin-bottom: 1rem;
@@ -68,7 +68,7 @@ $headings-color:              $blue !default;
   font-size: 0.95rem;
   line-height: 1.6;
   margin-bottom: 0.75rem;
-  color: $body-color;
+  color: $primary;
 }
 
 .bsky-footer {
