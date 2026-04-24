@@ -28,6 +28,7 @@ Outside of the ivory tower, I enjoy cycling, skiing, and spending time with my w
 
 library(httr2)
 library(purrr)
+library(htmltools)
 
 response <- request("https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed") |>
   req_url_query(actor = "sportecostudent.bsky.social", limit = 20) |>
@@ -35,24 +36,24 @@ response <- request("https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFee
   resp_body_json()
 
 posts <- response$feed
-``` 
-
-```{r}
-#| echo: false
-
-library(htmltools)
 
 cards <- map(posts, function(item) {
   text <- item$post$record$text
   date <- substr(item$post$record$createdAt, 1, 10)
   url  <- paste0("https://bsky.app/profile/sportecostudent.bsky.social/post/",
                  basename(item$post$uri))
-  
-  div(class = "card mb-3 p-3",
-    p(text),
-    p(class = "text-muted small",
-      date, " · ",
-      a("View on Bluesky", href = url, target = "_blank")
+  likes  <- item$post$likeCount %||% 0
+  reposts <- item$post$repostCount %||% 0
+
+  div(class = "bsky-card",
+    p(class = "bsky-text", text),
+    div(class = "bsky-footer",
+      span(class = "bsky-date", date),
+      span(class = "bsky-stats",
+        span(paste0("♥ ", likes)),
+        span(paste0("♻ ", reposts))
+      ),
+      a(class = "bsky-link", "View on Bluesky", href = url, target = "_blank")
     )
   )
 })
