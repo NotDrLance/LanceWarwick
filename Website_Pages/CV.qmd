@@ -1,0 +1,137 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-location: left
+toc-title: "Contents"
+toc-depth: 2
+---
+
+## Education
+
+| Years | Degree |
+|-|---|
+| 2021–26 | **Doctor of Philosophy in Recreation, Sport, and Tourism** <br> University of Illinois \| Urbana-Champaign, IL <br> *Doctoral Advisor:* Dr. Mikihiro Sato <br> *Dissertation:* Developing a Comprehensive Model of Pro-Environmental Action in Sport Participants and Consumers <br> *Anticipated Defence:* Spring 2026 |
+| 2019–21 | **Master of Science in Hospitality, Food, and Tourism Management** <br> University of Guelph \| Guelph, Canada <br> Sport Management Focus <br> *Advisor:* Dr. Norm O'Reilly <br> *Thesis:* The Effects of the COVID-19 Pandemic on the Canadian Sport Participation Ecosystem |
+| 2015–19 | **Honors Bachelor of Commerce in Sports Administration** <br> Laurentian University \| Sudbury, Canada <br> Minor in Finance \| Graduated Cum Laude |
+
+
+## Professional Appointments
+
+| Years | Position |
+|-|---|
+| 2025–Present | **Assistant Professor in Sport Management** <br> Ithaca College, School of Business \| Ithaca, NY <br> Department of Sport Management |
+
+## Research
+
+My research interests center around the intersection between sport and the environment, specifically on the ability of sport to encourage pro-environmental behavior and action. I focus on identity-based theoretical approaches and message framing. Methodologically, I utilize primarily quantitative methods within a pragmatic paradigm, with a focus on Bayesian statistical approaches.
+
+### Peer-Reviewed Journal Articles
+
+**Warwick, L.**, Oliveira, J. R., Sato, M. (2025). Investigating the Climate Vulnerability of North American Ultra-Endurance Running Events. *Sport in Society*. <https://doi.org/10.1080/17430437.2025.2450797>
+
+Sato, M., **Warwick, L.**, Pitas, N., Liechty, T. (2025). Park and Recreational Facility Availability, Leisure-Time Physical Activity, Socioeconomic Status, and Race. *Leisure Sciences*, 1–24. <https://doi.org/10.1080/01490400.2025.2566939>
+
+Sato, M., Tokuyama, T., Motoyama, S., **Warwick, L.**, Deguchi, J. (2024). Examining switching intention in professional sport: a push-pull-mooring perspective. *International Journal of Sports Marketing and Sponsorship*, 25(4), 895–912. <https://doi.org/10.1108/IJSMS-12-2023-0245>
+
+Foti, L., **Warwick, L.**, Lyons, E., Dhaliwal, S., Alcorn, M. (2023). Knowledge Transfer and Innovation: Universities as Catalysts for Sustainable Decision Making in Industry. *Sustainability*, 15(14), 11175. <https://doi.org/10.3390/su151411175>
+
+O'Reilly, N., Hernandez, T., Séguin, B., **Warwick, L.**, & Hasani, T. (2023). Barriers to youth sport participation in dense urban centres. *International Journal of Sport Management and Marketing*, 23(3), 175. <https://doi.org/10.1504/IJSMM.2023.130696>
+
+O'Reilly, N., Nadeau, J., & **Warwick, L.** (2022). Adventure tourism and the place brand of Argentina. *Journal of Sport & Tourism*, 26(3), 297–313. <https://doi.org/10.1080/14775085.2022.2094991>
+
+### Grants
+
+| Year | Grant |
+|------|-------|
+| 2025-26 | ** Education for a Sustainable Future Grant** <br> Ithaca College — Awarded: $1,200 |
+| 2021 | **Gender Diversity and Leadership in College Football in the Context of the COVID-19 Pandemic** <br> PI: Lance Warwick; Supervisor: Dr. Ann Pegoraro <br> Mitacs — Awarded: $2,500 |
+| 2020–21 | **Exploring the Influence of Role-Model Mentorship on Girl's Youth Sport Participation Experience** <br> PI: Dr. Lianne Foti <br> SSHRC Institutional Grant Explore Grant — Unfunded |
+
+### Awards
+
+| Year | Award |
+|------|-------|
+| 2024 | **Conference Travel Award** — $750 <br> Department of Recreation, Sport, and Tourism, University of Illinois |
+| 2023 | **Conference Travel Award** — $500 <br> Department of Recreation, Sport, and Tourism, University of Illinois |
+| 2022 | **Conference Travel Award** — $350 <br> Department of Recreation, Sport, and Tourism, University of Illinois |
+
+### Invited Presentations
+
+**Warwick, L.** (2024). Current Research in Sport Ecology. Guest Lecture for Bishop's University Special Topics in Sport Business and Society.
+
+**Warwick, L.** (2024). Sport Policy and Environmental Issues. Guest Lecture for University of Maine SPT 490.
+
+### Conference Presentations
+
+**Warwick, L.**, Baker, B., Motoyama, S., Sato, M., Inoue, Y. (2025). The Empty Net of Open Science: Encouraging Transparent Research in Sport Management. *North American Society for Sport Management Conference.* San Diego, CA. *Format:* Workshop
+
+**Warwick, L.**, Oliveira, J., Sato, M. (2025). Investigating the Climate Vulnerability of North American Ultra-Endurance Running Events. *North American Society for Sport Management Conference.* San Diego, CA. *Format:* Oral Presentation
+
+**Warwick, L.**, Sato, M. (2024). If You Build it, Who Will Come? County-level Associations between Recreational Facility Availability, Physical Activity, Socioeconomic Status, and Race. *North American Society for Sport Management Conference.* Minneapolis, MN. *Format:* Oral Presentation
+
+Ruwuya, J., **Warwick, L.**, Janarthanan, R., Nartey, E. (2024). The Role of Athlete Voices in Sport Organizational Policy Decisions: A Mixed-Method Comparison of Environmental Policy and Anti-Doping Policy. *Applied Sport Management Association Conference.* Knoxville, TN. *Format:* Workshop Presentation
+
+**Warwick, L.**, Sato, M. (2023). Exploring the Relationship between Outdoor Sport Identity and Pro-Environmental Activism. *North American Society for Sport Management Conference.* Montreal, QC. *Format:* Oral Presentation
+
+Motoyama, S., **Warwick, L.**, Sato, M., Tokuyama, T. (2023). Examining behavioral loyalty and switching intention in professional football: Moderating role of team identification. *North American Society for Sport Management Conference.* Montreal, QC. *Format:* Oral Presentation
+
+**Warwick, L.**, O'Reilly, N. (2022). Exploring Sport Participants' Physical Activity Resilience during the COVID-19 Pandemic. *North American Society for Sport Management Conference.* Atlanta, GA. *Format:* Oral Presentation
+
+**Warwick, L.**, O'Reilly, N. (2022). Organizational Capacity and Resiliency in Community Sport Organizations During COVID-19. *North American Society for Sport Management Conference.* Atlanta, GA. *Format:* Poster Presentation
+
+**Warwick, L.**, Gonzales, J., Kennedy, H., Pegoraro, A., & Mishra, S. (2021). Leadership Diversity and COVID-19 Risk Management in NCAA Division 1 Football. *North American Society for Sport Management.* Virtual conference. *Format:* Virtual Presentation
+
+## Teaching
+
+### Courses Taught and Assisted
+
+| Term | Role | Course | Institution | Enrollment |
+|------|------|--------|-------------|------------|
+| Spring 2026 | Instructor of Record | SMGT 326 — Sport Marketing | Ithaca College | 14 |
+| Spring 2026 | Instructor of Record | SMGT 385 — Sport Sales & Sponsorship | Ithaca College | 8 |
+| Fall 2025 | Instructor of Record | SMGT 326 — Sport Marketing | Ithaca College | 22 |
+| Fall 2025 | Instructor of Record | SMGT 260 — Sport Sustainability | Ithaca College | 13 (Block 1), 16 (Block 2) |
+| Spring 2025 | Co-Instructor | RST 429 — Contemporary Issues in Recreation, Sport, and Tourism | University of Illinois | 49 |
+| Fall 2024 | Instructor of Record | RST 325 — Marketing in Recreation, Sport, and Tourism | University of Illinois | 71 |
+| Spring 2024 | Instructor of Record | RST 325 — Marketing in Recreation, Sport, and Tourism | University of Illinois | 72 |
+| Fall 2023 | Co-Instructor | RST 325 — Marketing in Recreation, Sport, and Tourism | University of Illinois | 67 |
+| Fall 2021–Spring 2023 | Teaching Assistant | RST 325 — Marketing in Recreation, Sport, and Tourism | University of Illinois | — |
+| Spring 2021 | Teaching Assistant | HTM 2070 — Event Management | University of Guelph | — |
+| Fall 2020 | Teaching Assistant | HTM 3020 — Impact of Business on the Sport Industry | University of Guelph | — |
+
+### Teaching Awards
+
+| Year | Award |
+|------|-------|
+| 2024 | **Teachers Ranked as Excellent by Their Students** <br> Course: RST 325 Marketing in Recreation, Sport, and Tourism <br> Center for Innovation in Teaching and Learning, University of Illinois Urbana-Champaign |
+
+### Professional Development and Certificates
+
+| Year | Certificate |
+|------|-------------|
+| 2024 | Graduate Teaching Certificate <br> Center for Innovation in Teaching and Learning, University of Illinois |
+| 2021 | Certificate in Foundations of Teaching <br> Center for Innovation in Teaching and Learning, University of Illinois |
+
+## Service
+
+### Volunteer Roles
+
+| Year | Role |
+|------|------|
+| 2024–25 | **Student Board President** <br> North American Society for Sport Management |
+| 2023 | **Session Moderator** <br> North American Society for Sport Management Conference |
+| 2022 | **Student Board Member — Sustainability Committee** <br> North American Society for Sport Management |
+
+### Media Contributions
+
+McCullough, B., **Warwick, L.** (2022, February 17). Rising costs of climate change threaten to make skiing a less diverse, even more exclusive sport. *The Conversation US.* <https://theconversation.com/rising-costs-of-climate-change-threaten-to-make-skiing-a-less-diverse-even-more-exclusive-sport-177027>
+
+Huml, M. (Host), **Warwick, L.** (Guest). (2022). Choosing a Ph.D. Program. (Episode 11, Season 3) \[Audio Podcast Episode\]. In *State of Sport Management.* <https://state-of-sport-management.simplecast.com/episodes/lance-warwick>
+
+## Memberships
+
+| Years | Organization |
+|-------|--------------|
+| 2022–Present | Student Member, [Sport Ecology Group](https://www.sportecology.org/) |
+| 2022–Present | Student Member, [North American Society for Sport Sociology](https://nasss.org/) |
+| 2019–Present | Student Member, [North American Society for Sport Management](https://nassm.org/) |

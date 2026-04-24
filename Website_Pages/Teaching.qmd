@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+# For Students
+Are you one of my current students? If so, you can access Canvas or sign up for office hours through the links below.
+
+[SMGT 326 - Sport Marketing](https://canvas.ithaca.edu/courses/37339)
+
+[SMGT 385 - Sport Sales & Sponsorship](https://canvas.ithaca.edu/courses/38273)
+
+[Office Hours](https://calendly.com/lwarwick-ithaca/30min)
+
+# For Educators
+Are you a fellow academic or educator looking for syllabi or examples of my teaching materials? Feel free to explore my showcase pages below or reach out to me directly.
+
+[Sport Marketing](Sport_Marketing.qmd)
+
+[Sport Sales & Sponsorship](Sport_Sales_Sponsorship.qmd)
+
+[Sustainability in Sport](Sustainability_in_Sport.qmd)
