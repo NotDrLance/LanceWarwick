@@ -12,6 +12,8 @@ about:
       href: https://www.linkedin.com/in/proflwarwick
 ---
 
+Work
+
 I'm an [assistant professor](https://www.ithaca.edu/faculty/lwarwick) in the Marketing and Sport Management department at [Ithaca College](https://www.ithaca.edu).
 
 I currently teach [Sport Marketing](Sport_Marketing.qmd), [Sport Sales & Sponsorship](Sport_Sales_Sponsorship.qmd), and [Sustainability in Sport](Sustainability_in_Sport.qmd). 
