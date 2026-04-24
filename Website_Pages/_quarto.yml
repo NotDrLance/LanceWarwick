@@ -6,15 +6,14 @@ website:
   title: "Lance Warwick"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: about.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
+      - custom.scss
     css: styles.css
     toc: true
 
